@@ -1,0 +1,13 @@
+{
+    "id": "test1",
+    "version": "1.0.0",
+    "xnmwebVersion": "1.0.0",
+    "title": "Test 1",
+    "description": "hueta",
+    "author": "xnll038",
+    "license": "MIT",
+	"JSDependencies": [
+        ["test2", "1.0.0"]
+    ],
+	"CSSDependencies": [],
+}

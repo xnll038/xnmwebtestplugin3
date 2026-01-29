@@ -2,11 +2,15 @@
     "id": "test3",
     "version": "1.0.0",
     "xnmwebVersion": "1.0.0",
-    "title": "Test 33333333333333333333333333",
-    "description": "tipaa",
     "author": "xnll038",
     "license": "MIT",
+    "title": "Test 3",
+    "description": "Some description",
+	"script": true,
+	"styles": true,
+	"preview": true,
 	"dependencies": [
+        ["test1", "1.0.0"]
         ["test2", "1.0.0"]
     ]
 }
